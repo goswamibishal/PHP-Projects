@@ -1,0 +1,23 @@
+body{
+	
+	background-color: #3c40c6;
+}
+
+#set_login_form{
+	
+	width:280px;
+	height: 45px;
+	line-height:0.5;
+	margin-left:360px;
+	margin-top:50px;
+	font-family: 'Libre Baskerville', serif;
+}
+
+.btn{
+	margin-left:63px;
+	background-color: #ff503a;
+	
+}
+.jumbotron{
+	background-color: #c5c2bd;
+}
